@@ -4,7 +4,7 @@
 💻 I am Full Stack Engineer, while continously developing my skills as a Machine Learning Engineer
 📚 I have a Bachelors in Computer Engineering and a Masters in Artifical Intelligence
 📝 I have a strong interest in building backend systems 
-🌱 Playing around with Front End Frameworks and CV models
+🌱 Currently playing around with Front End Frameworks and CV models
 🌟 Main languages: Python, Rails, Java
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
