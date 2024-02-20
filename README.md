@@ -2,12 +2,14 @@
 
 <pre>
 💻 I am Full Stack Engineer, while continously developing my skills as a Machine Learning Engineer
-📚 I have a Bachelors in Computer Engineering and a Masters in Artifical Intelligence
+📚 I have a Bachelors in Computer Engineering and a Masters in CS focused on Artifical Intelligence
 📝 I have a strong interest in building backend systems 
 🌱 Currently playing around with Front End Frameworks and CV models
 🌟 Main languages: Python, Rails, Java
-🚩 Interested in Full Stack Machine Learning Application development
+🚩 Interested in Full Stack / Machine Learning Application development
 </pre>
+
+Find out more about me here: https://ambarish-prakash.github.io/!
 
 # 💻Tech Stack
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/ruby%20on%20rails%20-%20darkred?style=for-the-badge&logo=rubyonrails&logoColor=white)
